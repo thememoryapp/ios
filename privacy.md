@@ -12,7 +12,13 @@ This Application does not collect precise information about the location of your
 
 **Do third parties see and/or have access to information obtained by the Application?**
 
-Since the Application does not collect any information, no data is shared with third parties.
+Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service.
+
+Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
+
+*   [App Store](https://www.apple.com/legal/privacy/data/en/app-store/)
+*   [Mixpanel](https://mixpanel.com/legal/privacy-policy/)
+*   [RevenueCat](https://www.revenuecat.com/privacy)
 
 **What are my opt-out rights?**
 
